@@ -1,4 +1,4 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Warm Welcome to our second slide!"
 ---
